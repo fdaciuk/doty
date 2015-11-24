@@ -1,0 +1,22 @@
+{
+  "name": "doty",
+  "version": "0.0.0",
+  "description": "Dotfiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdaciuk/doty.git"
+  },
+  "keywords": [
+    "dotfiles"
+  ],
+  "author": "Fernando Daciuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fdaciuk/doty/issues"
+  },
+  "homepage": "https://github.com/fdaciuk/doty#readme"
+}
